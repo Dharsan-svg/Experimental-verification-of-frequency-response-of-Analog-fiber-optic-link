@@ -58,7 +58,7 @@ Fiber optic links can transmit both digital and analog signals. A fiber optic li
 11. Replace fiber connection to SFH450V (950nm LED).  
 12. Observe detected signal at **ANALOG OUT** on oscilloscope.  
 
----
+--
 
 ## Tabulation
 
